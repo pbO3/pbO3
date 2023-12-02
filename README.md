@@ -31,21 +31,19 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 #### Front-end:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=d1b01f)
-![D3.js](https://img.shields.io/badge/-D3&#46;js-333333?style=flat-square&logo=d3.js&logoColor=F9A03C)
-![Gatsby](https://img.shields.io/badge/-Gabtsy-663399?style=flat-square&logo=Gatsby&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![D3.js](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Gatsby](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 #### Back-end:
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Flask](http://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=ffffff)
-![GraphQL](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 #### Editors and Operating Systems:
