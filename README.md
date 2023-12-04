@@ -3,18 +3,15 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 -->
 <!-- <img width="100%" src="https://i.postimg.cc/SQCgGbMt/github-banner.png"/> -->
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@brennanbrown)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sukhjit-singh-630657204/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@brennanbrown)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sukhe_PB03/)
 
 <p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://brennan.substack.com">Newsletter</a></b> :octocat: </p>
 
 ## About Me :wave:
 
-Hey there! :smile: My name is Brennan, I'm a 27-year-old Queer Métis JAMstack developer and content strategist from Winnipeg, Manitoba and currently reside in Calgary, Alberta. I completed both the Full-Stack Developer Program at [InceptionU](https://www.inceptionu.com/full-stack-developer-program) and the Growth Marketing Bootcamp at [OnRamp](https://joinonramp.com/growth-marketing/), and I'm looking to help those that need web development work done, or searching for ideas and management for their next content project.
-
-I would also love to volunteer my time to contributing to open-source projects! I love creating and tinkering with small, static websites and projects. I'm a big proponent of putting an emphasis on accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
-
-I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [**an e-mail**](mailto:mail@brennanbrown.ca) if that sounds like your cup of tea.
+I'm Sukhjit Singh, a 4th-year undergrad in Electronics and Communication Engineering (ECE) from NSUT's Main Campus. I have a passion for MERN development and a strong background in coding. I'm learning to create visually appealing web interfaces that provide an exceptional user experience. Additionally, I have a keen interest in graphic design, which allows me to bring a creative touch to my work. I am eager to contribute my skills and creativity as a versatile MERN developer and graphic designer in the technology industry.
 
 <!-- More info on badges: https://github.com/badges/shields/blob/master/doc/logos.md -->
 <!-- SimpleIcons: https://simpleicons.org/ -->
