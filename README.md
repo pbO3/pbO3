@@ -3,15 +3,8 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 -->
 <!-- <img width="100%" src="https://i.postimg.cc/SQCgGbMt/github-banner.png"/> -->
 
-[![Dev.to](https://img.shields.io/badge/-dev&#46;to-0A0A0A?style=flat&labelColor=0A0A0A&logo=dev.to&logoColor=white&link=https://dev.to/brennan)](https://dev.to/brennan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://linkedin.com/in/brennankbrown/)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@brennanbrown)
-[![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://wandernotebook.com)](https://wandernotebook.com)
-[![Glitch](https://img.shields.io/badge/-Glitch-3333FF?style=flat&labelColor=3333FF&logo=glitch&logoColor=white&link=https://glitch.com/@brennan)](https://glitch.com/@brennan)
-[![Ko-fi](https://img.shields.io/badge/-Ko%E2%80%93fi-FF5E5B?style=flat&logo=ko-fi&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](https://ko-fi.com/brennanbrown)
-[![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat)](https://pronoun.is/he)
-[![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff)](https://opensource.guide/)
-[![Liberapay](https://img.shields.io/badge/-Donate-F6C915?style=flat&logo=liberapay&logoColor=000000&link=https://liberapay.com/@brennan)](https://en.liberapay.com/brennan/)
 
 <p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://brennan.substack.com">Newsletter</a></b> :octocat: </p>
 
@@ -46,15 +39,12 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
-#### Editors and Operating Systems:
+#### Desginer:
 
 ![IntelliJ IDEA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Debian](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![FreeBSD](http://img.shields.io/badge/-Free%20BSD-AB2B28?style=flat-square&logo=freebsd&logoColor=ffffff)
-![GNU Emacs](http://img.shields.io/badge/-GNU%20Emacs-7F5AB6?style=flat-square&logo=gnu-emacs&logoColor=ffffff)
-![GNU Bash](http://img.shields.io/badge/-GNU%20Bash-000000?style=flat-square&logo=gnu-bash&logoColor=ffffff)
 
 <hr>
 
