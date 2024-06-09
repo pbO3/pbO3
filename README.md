@@ -7,7 +7,7 @@ My friends, love is better than anger. Hope is better than fear. Optimism is bet
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@brennanbrown)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/sukhe_PB03/)
 
-<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a https://drive.google.com/file/d/1T3evYTMv_7IaYxrNADgkJow6uI1TJuWG/view?usp=sharing">Resume</a> / <a href="https://brennan.substack.com">Newsletter</a></b> :octocat: </p>
+<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a herf="https://drive.google.com/file/d/1T3evYTMv_7IaYxrNADgkJow6uI1TJuWG/view?usp=sharing">Resume</a> / <a href="https://brennan.substack.com">Newsletter</a></b> :octocat: </p>
 
 ## About Me :wave:
 
