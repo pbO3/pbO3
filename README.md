@@ -44,12 +44,3 @@ I'm Sukhjit Singh, a 4th-year undergrad in Electronics and Communication Enginee
 ![Debian](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 <hr>
-
-### Recent Posts :bookmark_tabs:
-<!-- BLOG-POST-LIST:START -->
-- [Tracking Every Aspect of My Life for a Year](https://dev.to/brennan/tracking-every-aspect-of-my-life-for-a-year-pm6)
-- [8 Cheap or Free Learning Resources!](https://dev.to/brennan/8-cheap-or-free-learning-resources-j1j)
-- [Watery: A New Theme](https://dev.to/brennan/watery-for-jekyll-i6c)
-- [Jumping Into Jekyll](https://dev.to/brennan/jumping-into-jekyll-4o9h)
-- [My Coding Journey](https://dev.to/brennan/my-coding-journey-32h6)
-<!-- BLOG-POST-LIST:END -->
